@@ -3,7 +3,7 @@ layout: post
 title: "Publications" 
 ---
 
-### Ordered
+### Energy Management
 
 1. El Ganaoui-Mourlan, O., Miliani, E.H., Saber, R., Ditzel Filho, L.A. et al., “New Fuel-Cell Hybrid Architecture for Heavy-Duty Trucks Applications,” SAE Technical Paper 2021-01-0727, 2021, doi:10.4271/2021-01-0727.
     * Download [here][paper_1]
