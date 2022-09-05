@@ -1,10 +1,12 @@
 ---
-layout: default
+layout: post
 title: "Publications" 
 ---
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Publications" %}
-{% endif %}
+### Ordered
+
+1. First item
+2. Second item
+3. Third item
+    1. First nested item
+    2. Second nested item
