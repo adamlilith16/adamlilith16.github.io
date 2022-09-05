@@ -6,11 +6,11 @@ title: "Publications"
 ### Ordered
 
 1. El Ganaoui-Mourlan, O., Miliani, E.H., Saber, R., Ditzel Filho, L.A. et al., “New Fuel-Cell Hybrid Architecture for Heavy-Duty Trucks Applications,” SAE Technical Paper 2021-01-0727, 2021, doi:10.4271/2021-01-0727.
-    1. Download: [paper_1]
+    * Download [here][paper_1]
 2. Li, M., Ding, W., Zeng, X., Zhong, Z. et al., “Optimization of Speed Fluctuation of Internal Combustion Engine Range Extender by a Dual Closed-Loop Control Strategy,” SAE Technical Paper 2021-01-0782, 2021, doi:10.4271/2021-01-0782.
-    1. Download: [paper_2]
+    * Download [here][paper_2]
 3. Ge, G., Wang, T., Lv, Y., Zou, X. et al., “Energy-Efficient Braking Torque Distribution Strategy of Rear-Axle Drive Commercial EV Based on Fuzzy Neural Network,” SAE Technical Paper 2021-01-0783, 2021, doi:10.4271/2021-01-0783.
-    1. Download: [paper_3]
+    * Download [here][paper_3]
 4. Bandur, V., Pantelic, V., Dawson, M., Schaap, A. et al., “A Domain-Centralized Automotive Powertrain E/E Architecture,” SAE
 Technical Paper 2021-01-0786, 2021, doi:10.4271/2021-01-0786.
 5. Cao, X., Asano, N., Yamagishi, T., Yamaguchi, K. et al., “A Study on Optimizing SHEV Components Specifications and Control
