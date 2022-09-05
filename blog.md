@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Blog" # need to be updated
+title: "Blog" 
 ---
 
 {% if site.show_excerpts %}
