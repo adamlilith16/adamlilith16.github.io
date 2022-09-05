@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: Home Change, icon: home} # need to be updated
   - {title: About Me, icon: address-card} # need to be updated
   - {title: Lab, url: "https:childlanglab.com"}
-  - {title: Blog, file: "/blog.md"}
+  - {title: Blog, file: "blog.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:adamlilith16@gmail.com"} # need to be updated
