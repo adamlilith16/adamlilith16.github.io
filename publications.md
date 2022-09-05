@@ -17,6 +17,6 @@ Technical Paper 2021-01-0786, 2021, doi:10.4271/2021-01-0786.
 Parameter Values for the Reduction of Fuel Consumption by Using a Genetic Algorithm,” SAE Technical Paper 2022-01-0655, 2022,
 doi:10.4271/2022-01-0655.
 
-[paper_1]: https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project1/Paper_1.pdf
+[paper_1]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project1/Paper_1.pdf}
 [paper_2]: https://github.com/adamlilith16/adamlilith16.github.io/blob/master/_downloads/_project1/Paper_2.pdf
 [paper_3]: https://github.com/adamlilith16/adamlilith16.github.io/blob/master/_downloads/_project1/Paper_2.pdf
