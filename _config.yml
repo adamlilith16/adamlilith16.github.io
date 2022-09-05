@@ -17,7 +17,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: Publications, file: publications.md} # need to be updated
+  - {title: Publications, file: publications.md}
   - {title: Research} # need to be updated
   - {title: Blog Posts, file: blog.md}
   - {title: Lab, url: "https:childlanglab.com"}
