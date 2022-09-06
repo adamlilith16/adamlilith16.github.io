@@ -24,3 +24,5 @@ doi:10.4271/2022-01-0655.
 [paper_3]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project1/Paper_3.pdf
 [paper_4]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project1/Paper_4.pdf
 [paper_5]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project1/Paper_5.pdf
+
+### System Design and Optimization
