@@ -26,8 +26,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:adamlilith16@gmail.com"} # need to be updated
   - {title: Github, icon: github, url: "https://adamlilith16.github.io/"} # need to be updated
-  - {title: GoogleScholar, icon: github, url: "https://scholar.google.com/citations?user=_3LDMk0AAAAJ&hl=en"} # need to be updated
-  - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/Sumanth-Dadam"} # need to be updated
+  - {title: GoogleScholar, icon: bars, url: "https://scholar.google.com/citations?user=_3LDMk0AAAAJ&hl=en"} # need to be updated
+  - {title: ResearchGate, icon: list, url: "https://www.researchgate.net/profile/Sumanth-Dadam"} # need to be updated
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
