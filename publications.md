@@ -26,3 +26,8 @@ doi:10.4271/2022-01-0655.
 [paper_5]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project1/Paper_5.pdf
 
 ### System Design and Optimization
+
+1. Dahodwala, M ., Joshi, S., Dhanraj, F., Ahuja, N. et al., "Evaluation of 48V and High Voltage Parallel Hybrid Diesel Powertrain Architectures for Class 6-7 Medium Heavy-Duty Vehicles," SAE Technical Paper 2021-01-0720, 2021, doi:10.4271/2021-01-0720.
+    * Download [here][sdo_paper_1]
+    
+[sdo_paper_1]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project2/SDO_Paper_1.pdf
