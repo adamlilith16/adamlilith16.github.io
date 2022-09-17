@@ -31,25 +31,43 @@ doi:10.4271/2022-01-0655.
     * Download [here][sdo_paper_1]
 2. Joshi, S., Dahodwala, M., Ahuja, N., Dhanraj, F. et al., "Evaluation of Hybrid, Electric and Fuel Cell Powertrain Solutions for Class 6-7 Medium Heavy-Duty Vehicles," SAE Technical Paper 2021-01-0723, 2021, doi:10.4271/2021-01-0723. 
     * Download [here][sdo_paper_2]
-3. Shinde, A., Kshirsagar, K., Arshad, S.B., Patil, U. et al., "A Multi-Objective Power Component Optimal Sizing Model for Battery
-Electric Vehicles," SAE Technical Paper 2021-01-0724, 2021, doi:10.4271/2021-01-0724.
+3. Shinde, A., Kshirsagar, K., Arshad, S.B., Patil, U. et al., "A Multi-Objective Power Component Optimal Sizing Model for Battery Electric Vehicles," SAE Technical Paper 2021-01-0724, 2021, doi:10.4271/2021-01-0724.
     * Download [here][sdo_paper_3]
 4. El Ganaoui-Mourlan, 0., Miliani, E.H., Saber, R., Ditzel Filho, L.A. et al., "New Fuel-Cell Hybrid Architecture for Heavy-Duty Trucks Applications," SAE Technical Paper 2021-01-0727, 2021, doi:10.4271/2021-01-0727.
     * Download [here][sdo_paper_4]
 5. Chen, S., Zuo, S., and Wu, Z., "Aerodynamic Performance Modeling of the Centrifugal Compressor and Stability Analysis of the Compression System for Fuel Cell Vehicles," SAE Technical Paper 2021-01-0733, 2021, doi:10.4271/2021-01-0733. 
     * Download [here][sdo_paper_5]
-6. Zheng, L., Hou, Y., Li, W., and Hao, D., “A Data Driven Fuel Cell Life-Prediction Model for a Fuel Cell Electric City Bus,”
-SAE Technical Paper 2021-01-0739, 2021, doi:10.4271/2021-01-0739.
+6. Zheng, L., Hou, Y., Li, W., and Hao, D., “A Data Driven Fuel Cell Life-Prediction Model for a Fuel Cell Electric City Bus,” SAE Technical Paper 2021-01-0739, 2021, doi:10.4271/2021-01-0739.
     * Download [here][sdo_paper_6]
-7. Tomi, N., Hasegawa, S., Farnsworth, J., Imanishi, H. et al., “Development of Air Supply Controller for FCV Based on Model-
-Based Development Approach,” SAE Technical Paper 2021-01-0742, 2021, doi:10.4271/2021-01-0742.
+7. Tomi, N., Hasegawa, S., Farnsworth, J., Imanishi, H. et al., “Development of Air Supply Controller for FCV Based on Model-Based Development Approach,” SAE Technical Paper 2021-01-0742, 2021, doi:10.4271/2021-01-0742.
     * Download [here][sdo_paper_7]
 8. Sun, Z., Wang, C., Zhou, Q., and Xu, H., "Sensitivity Study of Battery Thermal Response to Cell Thermophysical Parameters," SAE Technical Paper 2021-01-0751, 2021, doi:10.4271/2021-01-0751. 
     * Download [here][sdo_paper_8]
-9. Wurzenberger, J.C., Jelovic, M., 􀀂imundic, M., Mele, I. et al., "Battery Thermal Management Simulation - lD+lD Electrochemical Battery and 3D Module Modeling on Vehicle System Level," SAE Technical Paper 2021-01-0757, 2021, doi:10.4271/2021-01-0757. 
+9. Wurzenberger, J.C., Jelovic, M., 􀀂imundic, M., Mele, I. et al., "Battery Thermal Management Simulation - 1D+1D Electrochemical Battery and 3D Module Modeling on Vehicle System Level," SAE Technical Paper 2021-01-0757, 2021, doi:10.4271/2021-01-0757. 
     * Download [here][sdo_paper_9]
 10. Champhekar, 0., Hu, X., and Wakale, A., "Validation of a Lumped Electro-Thermal Model of a 14S1P Battery Module with 3D CFD Results," SAE Technical Paper 2021-01-0761, 2021, doi:10.4271/2021-01-0761. 
     * Download [here][sdo_paper_10]
+11. Ghabech, C., Yadav, A.K., Khaligh, A., Singhabahu, C. et al., "Systematic Modelling and Design of a Battery Pack for Formula Electric Vehicles," SAE Technical Paper 2021-01-0762, 2021, doi:10.4271/2021-01-0762. 
+    * Download [here][sdo_paper_11]
+12. Bao, R., Fotias, N., and McGahan, P., "Using Virtual Product Development with Design of Experiments to Design Battery Packs for Electrified Powertrain," SAE Int. J. Advances & Curr. Prac. in Mobility 3(6):2893-2905, 2021, doi:10.4271/2021-01-0764. 
+    * Download [here][sdo_paper_12]
+13. Hazra, S. and Janardhan Reddy, K., "Impact of Powertrain Dimensional Variation on Buzz, Squeak and Rattle Noise for Cradle Type Electric Vehicle," SAE Technical Paper 2021-01-0836, 2021, doi:10.4271/2021-01-0836. 
+    * Download [here][sdo_paper_13]
+14. Gulve, A., "Modular Approach to Developing Platform Solutions across Multiple Brands and Segments," SAE Technical Paper 2021-01-0837, 2021, doi:10.4271/2021-01-0837. 
+    * Download [here][sdo_paper_14]
+15. Annabattula, P. and Gaikwad, S., “Comparison of Direct and Metamodel Based Optimization in the Coolant Jacket Design of an IC Engine,” SAE Technical Paper 2021-01-0841, 2021, doi:10.4271/2021-01-0841.
+    * Download [here][sdo_paper_15]
+16. Dai, R., Yang, X., Shi, S., and Wu, X., “Electric Bus Frame Optimization for Side-Impact Safety and Mass Reduction Based on the Surrogate Model Method,” SAE Technical Paper 2021-01-0846, 2021, doi:10.4271/2021-01-0846.
+    * Download [here][sdo_paper_16]
+17. Hazra, S. and Janardhan Reddy, K., "Challenges and Approaches of Electric Vehicles Powertrain Mount System Optimization for NVH, Buzz Squeak Rattle and Durability," SAE Technical Paper 2021-01-1085, 2021, doi:10.4271/2021-01-1085. 
+    * Download [here][sdo_paper_17]
+18. Hazra, S. and Janardhan Reddy, K., "Influence of Powertrain Mount Stiffness Progressivity on Buzz, Squeak & Rattle Noise for Electric Vehicle," SAE Technical Paper 2021-01-1089, 2021, doi:10.4271/2021-01-1089. 
+    * Download [here][sdo_paper_18]
+19. lu, G., Yang, D., Rong, Y., Gong, Z. et al., “Development of an Intelligent Thermal Management System for BYD DM-i Hybrid Engine,” SAE Technical Paper 2021-01-1153, 2021, doi:10.4271/2021-01-1153.
+    * Download [here][sdo_paper_19]
+20. Wang, Y.J., yang, S., and Xu, Z., “Cylinder Head Gasket Leakage Trouble Shooting Analysis,” SAE Technical Paper 2021-01-1234, 2021, doi:10.4271/2021-01-1234.
+    * Download [here][sdo_paper_20]
+
     
 [sdo_paper_1]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project2/SDO_Paper_1.pdf
 [sdo_paper_2]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project2/SDO_Paper_2.pdf
