@@ -88,7 +88,16 @@ doi:10.4271/2022-01-0655.
     * Download [here][sdo_paper_29]
 30. Machado, F., Kollmeyer, P., and Emadi, A., “Chevrolet Bolt Electric Vehicle Model Validated with On-the-Road Data and Applied to Estimating the Benefits of a Multi-Speed Gearbox,” SAE Technical Paper 2022-01-0678, 2022, doi:10.4271/2022-01-0678.
     * Download [here][sdo_paper_30]
-
+31. Miliani, E.H., El Ganaoui-Mourlan, O., Couillandeau, M., Tbatou, A. et al., “Perspectives and Limitations of a Fully Electric Low Voltage Propulsion Architecture,” SAE Technical Paper 2022-01-0679, 2022, doi:10.4271/2022-01-0679.
+    * Download [here][sdo_paper_31]
+32. Ma, L., Peng, S., Zhong, M., Li, W. et al., "Dynamic Durability Prediction of Fuel Cells Using Long Short-Term Memory Neural Network," SAE Technical Paper 2022-01-0687, 2022, doi:10.4271/2022-01-0687. 
+    * Download [here][sdo_paper_32]
+33. Zhou, S., Zhang, G., Wang, Z., Fan, L. et al., "Multi-Stack Fuel Cell System Stacks Allocation Optimization Based on Genetic Algorithms," SAE Technical Paper 2022-01-0689, 2022, doi:10.4271/2022-01-0689. 
+    * Download [here][sdo_paper_33]
+34. Chen, S., Zuo, S., Wu, Z., and Liu, C., "Dynamic Modeling of Fuel Cell Air Management System and Influence Analysis of Motor Torque Ripple," SAE Technical Paper 2022-01-0695, 2022, doi:10.4271/2022-01-0695. 
+    * Download [here][sdo_paper_34]
+35. Shintani, K., Abe, A., and Tsuchiyama, M., "Data-Driven Set Based Concurrent Engineering Method for Multidisciplinary Design Optimization," SAE Technical Paper 2022-01-0793, 2022, doi:10.4271/2022-01-0793. 
+    * Download [here][sdo_paper_35]
     
 [sdo_paper_1]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project2/SDO_Paper_1.pdf
 [sdo_paper_2]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project2/SDO_Paper_2.pdf
