@@ -43,7 +43,7 @@ doi:10.4271/2022-01-0655.
     * Download [here][sdo_paper_7]
 8. Sun, Z., Wang, C., Zhou, Q., and Xu, H., "Sensitivity Study of Battery Thermal Response to Cell Thermophysical Parameters," SAE Technical Paper 2021-01-0751, 2021, doi:10.4271/2021-01-0751. 
     * Download [here][sdo_paper_8]
-9. Wurzenberger, J.C., Jelovic, M., 􀀂imundic, M., Mele, I. et al., "Battery Thermal Management Simulation - 1D+1D Electrochemical Battery and 3D Module Modeling on Vehicle System Level," SAE Technical Paper 2021-01-0757, 2021, doi:10.4271/2021-01-0757. 
+9. Wurzenberger, J.C., Jelovic, M., Šimundić, M., Mele, I. et al., “Battery Thermal Management Simulation - 1D+1D Electrochemical Battery and 3D Module Modeling on Vehicle System Level,” SAE Technical Paper 2021-01-0757, 2021, doi:10.4271/2021-01-0757. 
     * Download [here][sdo_paper_9]
 10. Champhekar, 0., Hu, X., and Wakale, A., "Validation of a Lumped Electro-Thermal Model of a 14S1P Battery Module with 3D CFD Results," SAE Technical Paper 2021-01-0761, 2021, doi:10.4271/2021-01-0761. 
     * Download [here][sdo_paper_10]
@@ -67,6 +67,27 @@ doi:10.4271/2022-01-0655.
     * Download [here][sdo_paper_19]
 20. Wang, Y.J., yang, S., and Xu, Z., “Cylinder Head Gasket Leakage Trouble Shooting Analysis,” SAE Technical Paper 2021-01-1234, 2021, doi:10.4271/2021-01-1234.
     * Download [here][sdo_paper_20]
+21. Barbieri, S.G., Mangeruga, V., and Giacopini, M., “The Effects of the Specific Material Selection on the Structural Behaviour of the Piston-Liner Coupling of a High Performance Engine,” SAE Technical Paper 2021-01-1235, 2021, doi:10.4271/2021-01-1235.
+    * Download [here][sdo_paper_21]
+22. Wang, W., Cai, Z., and Liu, S., "Approximate Dynamic Programming Real-Time Control Design for Plug-In Hybrid Electric Vehicles," SAE Technical Paper 2021-01-5110, 2021, doi:10.4271/2021-01-5110. 
+    * Download [here][sdo_paper_22]
+23. Suman, S. and Kushwah, Y., "Design Optimization of Two-Wheeler Radiator with the Base Design Using the Mathematical Modelling Tools & Testing Data," SAE Technical Paper 2021-28-0136, 2021, doi:10.4271/2021-28-0136. 
+    * Download [here][sdo_paper_23]
+24. Zhao, Z., Fan, J., Li, M., and Fu, J., "Engine Start-Up Robust Control for a Power­Split Hybrid System Based on µ Synthesis Method," SAE Int. J. Elect. Veh. 
+10(1):89-101, 2021, doi:10.4271/14-10-01-0007. 
+    * Download [here][sdo_paper_24]
+25. Hamza, K., Benoliel, P., Chu, K.-C., and Laberteaux, K., "Extended Modeling, Calibration and Validity Assessment of Vehicle Models in Future Automotive Systems Technology Simulator via Real-World Driving Data," SAE Technical Paper 2022-01-0661, 2022, doi:10.4271/2022-01-0661. 
+    * Download [here][sdo_paper_25]
+26. Yashwanth, B.L., Ronning, J.J., Kolesnikov, A., and Mehta, Y., “Multiphase Flow and Thermal Analysis of Hollow-Shaft Cooling System for Motors of Electric Drive Units,” SAE Technical Paper 2022-01-0663, 2022, doi:10.4271/2022-01-0663.
+    * Download [here][sdo_paper_26]
+27. Mathivanan, A., Elango, P., Kakani, R., Das, H.B. et al., "Model Based Evaluation of Parallel Hybrid Concepts for a Scooter for Reduced Fuel Consumption and Emissions," SAE Technical Paper 2022-01-0665, 2022, doi:10.4271/2022-01-0665. 
+    * Download [here][sdo_paper_27]
+28. Hagenberger, A., Schacht, H-.J., Schmidt, S., Kirchberger, R. et al., “Concept Study of a 48V-Hybrid-Powertrain for L-Category Vehicles with Longitudinal Dynamic Simulation and Design of Experiments,” SAE Technical Paper 2022-01-0672, 2022, doi:10.4271/2022-01-0672.
+    * Download [here][sdo_paper_28]
+29. Blades, L.A.W., MacNeill, R., Zhang, Y., Cunningham, G. et al., "Determining the Distribution of Battery Electric and Fuel Cell Electric Buses in a Metropolitan Public Transport Network," SAE Technical Paper 2022-01-0675, 2022, doi:10.4271/2022-01-0675. 
+    * Download [here][sdo_paper_29]
+30. Machado, F., Kollmeyer, P., and Emadi, A., “Chevrolet Bolt Electric Vehicle Model Validated with On-the-Road Data and Applied to Estimating the Benefits of a Multi-Speed Gearbox,” SAE Technical Paper 2022-01-0678, 2022, doi:10.4271/2022-01-0678.
+    * Download [here][sdo_paper_30]
 
     
 [sdo_paper_1]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project2/SDO_Paper_1.pdf
