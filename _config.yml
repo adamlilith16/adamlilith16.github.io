@@ -18,10 +18,10 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: Publications, file: publications.md}
-  - {title: Research} # need to be updated
+  - {title: Research, file: research.md} # need to be updated
   - {title: Blog Posts, file: blog.md}
   - {title: Lab, url: "https:childlanglab.com"}
-  - {title: CV, file: blog.md}
+  - {title: CV, file: CV.md}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:adamlilith16@gmail.com"} # need to be updated
