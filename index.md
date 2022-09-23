@@ -1,6 +1,3 @@
-<header>
-<meta name="google-site-verification" content="6i-_7BtptL3nb2Es1SGDvLHzNbNG05QFb1G_DGq-8h4" />
-</header>
 ---
 layout: page
 title: "About Me"
