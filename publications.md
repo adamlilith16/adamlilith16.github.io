@@ -19,8 +19,7 @@ Parameter Values for the Reduction of Fuel Consumption by Using a Genetic Algori
 doi:10.4271/2022-01-0655.
     * Download [here][paper_5]
 
-paperurl: 'https://adamlilith16.github.io/_downloads/_project1/Paper_1.pdf'
-[paper_1]: (https://adamlilith16.github.io/_downloads/_project1/Paper_1.pdf)
+[paper_1]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project1/Paper_1.pdf
 [paper_2]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project1/Paper_2.pdf
 [paper_3]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project1/Paper_3.pdf
 [paper_4]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project1/Paper_4.pdf
