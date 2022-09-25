@@ -6,6 +6,10 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
+url: https://adamlilith16.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "" # the subpath of your site, e.g. "/blog"
+repository: "adamlilith16/adamlilith16.github.io"
+
 # Layout
 
 show_social: true          # show site description and social links in the footer
