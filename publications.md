@@ -99,12 +99,12 @@ doi:10.4271/2022-01-0655.
 35. Shintani, K., Abe, A., and Tsuchiyama, M., "Data-Driven Set Based Concurrent Engineering Method for Multidisciplinary Design Optimization," SAE Technical Paper 2022-01-0793, 2022, doi:10.4271/2022-01-0793. 
     * Download [here][sdo_paper_35]
     
-[sdo_paper_1]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project2/SDO_Paper_1.pdf
-[sdo_paper_2]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project2/SDO_Paper_2.pdf
-[sdo_paper_3]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project2/SDO_Paper_3.pdf
-[sdo_paper_4]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project2/SDO_Paper_4.pdf
-[sdo_paper_5]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project2/SDO_Paper_5.pdf
-[sdo_paper_6]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project2/SDO_Paper_6.pdf
+[sdo_paper_1]: https://cloudstrong22.github.io/files/SEP_1.pdf
+[sdo_paper_2]: https://cloudstrong22.github.io/files/SEP_2.pdf
+[sdo_paper_3]: https://cloudstrong22.github.io/files/SEP_3.pdf
+[sdo_paper_4]: https://cloudstrong22.github.io/files/SEP_4.pdf
+[sdo_paper_5]: https://cloudstrong22.github.io/files/SEP_5.pdf
+[sdo_paper_6]: https://cloudstrong22.github.io/files/SEP_6.pdf
 [sdo_paper_7]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project2/SDO_Paper_7.pdf
 [sdo_paper_8]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project2/SDO_Paper_8.pdf
 [sdo_paper_9]: https://docs.google.com/viewer?url=https://github.com/adamlilith16/adamlilith16.github.io/raw/master/_downloads/_project2/SDO_Paper_9.pdf
